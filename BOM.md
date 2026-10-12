@@ -15,7 +15,7 @@
 | [Seeed XIAO ESP32C3 (SKU 113991054)](https://hackster.io/products/buy/116992) | The brain; runs the Starbie code | 1 | $4.99 | $4.99 | [Seeed (via Hackster)](https://hackster.io/products/buy/116992) |
 | [0.96" SSD1306 OLED](https://52pi.com/products/52pi-oled-display-module-i2c-iic-128x64-pixel-0-96-inch-display-module-yellow-blue-two-color-display-compatible-with-raspberry-pi-arduino-51-series-mcu-stm32-r3-and-mega) | The screen Starbie lives on | 1 | $5.09 | $5.09 | [52.pi](https://52pi.com/products/52pi-oled-display-module-i2c-iic-128x64-pixel-0-96-inch-display-module-yellow-blue-two-color-display-compatible-with-raspberry-pi-arduino-51-series-mcu-stm32-r3-and-mega) |
 | **Parts subtotal** | — | — | — | **$10.08** | — |
-| **Tax & shipping** | — | — | — | **$4.00** | — |
-| **Total** | — | — | — | **$14.08** | — |
+| **Tax & shipping** | — | — | — | **$2.00** | — |
+| **Total** | — | — | — | **$12.08** | — |
 
-$15.92 left of the tier's funding.
+$17.92 left of the tier's funding.
