@@ -14,7 +14,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Seeed XIAO ESP32C3 (SKU 113991054)](https://hackster.io/products/buy/116992) | The brain; runs the Starbie code | 1 | $4.99 | $4.99 | [Seeed (via Hackster)](https://hackster.io/products/buy/116992) |
 | **Parts subtotal** | — | — | — | **$4.99** | — |
-| **Tax & shipping** | — | — | — | **$30.00** | — |
-| **Total** | — | — | — | **$34.99** | — |
+| **Tax & shipping** | — | — | — | **$4.00** | — |
+| **Total** | — | — | — | **$8.99** | — |
 
-**$4.99 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$21.01 left of the tier's funding.
