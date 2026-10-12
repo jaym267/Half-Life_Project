@@ -1,4 +1,7 @@
 STARBIE
+<img width="732" height="642" alt="Screenshot 2026-10-11 195856" src="https://github.com/user-attachments/assets/b6da547d-b48e-4d0e-8060-a61781cf3535" />
+<
+
  a tiny motion control digital pet that lives on a star-shaped PCB 
  ##Hardware 
 - **Seeed XIAO ESP32-C3**: the microcontroller that runs everything
