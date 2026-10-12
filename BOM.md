@@ -18,7 +18,7 @@
 | [DHT11 (4-pin)](https://www.digikey.com/en/products/detail/universal-solder-electronics-ltd/DHT11/16822119) | Measures temperature and humidity | 1 | $2.77 | $2.77 | [Digi-key](https://www.digikey.com/en/products/detail/universal-solder-electronics-ltd/DHT11/16822119) |
 | [Cherry MX1A-E1NN switch](https://azcus.digikey.com/en/products/detail/cherry-americas-llc/MX1A-E1NN/40084) | The two buttons | 2 | $1.25 | $2.50 | [Digi-Key](https://azcus.digikey.com/en/products/detail/cherry-americas-llc/MX1A-E1NN/40084) |
 | **Parts subtotal** | — | — | — | **$22.34** | — |
-| **Tax & shipping** | — | — | — | **$2.00** | — |
-| **Total** | — | — | — | **$24.34** | — |
+| **Tax & shipping** | — | — | — | **$1.00** | — |
+| **Total** | — | — | — | **$23.34** | — |
 
-$5.66 left of the tier's funding.
+$6.66 left of the tier's funding.
